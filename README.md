@@ -116,7 +116,9 @@ New一个新项目,在android 4.3，6.0上运行后如下:
 ###总结上面的原理：
 
 >1: 设置状态栏透明 (通过android:windowTranslucentStatus等)
-2: 使view适应系统 (通过android:fitsSystemWindows="true"等)
+
+
+>2: 使view适应系统 (通过android:fitsSystemWindows="true"等)
 
 
 **demo地址：https://github.com/George-Soros/AndroidStatusbar**
